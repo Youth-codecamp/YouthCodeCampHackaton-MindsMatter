@@ -42,7 +42,7 @@ Projects will be judged based on the following criteria:
 
 For more detailed guidelines and tips, refer to the PDF document below.
 
-[Download Hackathon Guidance PDF]()
+[Download Hackathon Guidance PDF](https://github.com/Youth-codecamp/YouthCodeCampHackaton-MindsMatter/blob/main/ycc%20hackaton%20guidance.pdf)
 
 ---
 
